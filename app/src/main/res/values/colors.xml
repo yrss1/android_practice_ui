@@ -7,4 +7,6 @@
     <color name="textColor">#E6DAFF</color>
     <color name="audiColor">#D9C8FF</color>
     <color name="smallTextColor">#D9C8FF</color>
+    <color name="PurpleTextColor">#A680FA</color>
+    <color name="YellowTextColor">#F5CA31</color>
 </resources>
