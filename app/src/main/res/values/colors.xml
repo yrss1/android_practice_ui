@@ -2,4 +2,9 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="mainBackground">#33284E</color>
+    <color name="secondBg">#1A132B</color>
+    <color name="textColor">#E6DAFF</color>
+    <color name="audiColor">#D9C8FF</color>
+    <color name="smallTextColor">#D9C8FF</color>
 </resources>
